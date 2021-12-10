@@ -1,0 +1,25 @@
+{
+  "name": "myfirst-node-site",
+  "version": "1.0.0",
+  "description": "A simple website to practice Node with basic routing",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisnotthere/myFirst-Node-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisnotthere/myFirst-Node-site/issues"
+  },
+  "homepage": "https://github.com/chrisnotthere/myFirst-Node-site#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
